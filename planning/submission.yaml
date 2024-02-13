@@ -4,13 +4,7 @@ challenge: ["lx22-planning-dd-empty-vali",
             "lx22-planning-dd-static-vali",
             "lx22-planning-cc-static-vali",
             "lx22-planning-dd-dynamic-vali",
-            "lx22-planning-cc-dynamic-vali",
-            "lx22-planning-dd-empty-test",
-            "lx22-planning-cc-empty-test",
-            "lx22-planning-dd-static-test",
-            "lx22-planning-cc-static-test",
-            "lx22-planning-dd-dynamic-test",
-            "lx22-planning-cc-dynamic-test"]
+            "lx22-planning-cc-dynamic-vali"]
 
 # conventions + format
 protocol: "protocol_planning-1"
