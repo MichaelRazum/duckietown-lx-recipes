@@ -1,10 +1,5 @@
 # challenge name(s); defaults to all compatible challenges
-challenge: ["lx22-planning-dd-empty-vali",
-            "lx22-planning-cc-empty-vali",
-            "lx22-planning-dd-static-vali",
-            "lx22-planning-cc-static-vali",
-            "lx22-planning-dd-dynamic-vali",
-            "lx22-planning-cc-dynamic-vali"]
+challenge: ["lx22-planning-dd-empty-vali"]
 
 # conventions + format
 protocol: "protocol_planning-1"
